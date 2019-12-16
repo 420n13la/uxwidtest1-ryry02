@@ -1,61 +1,61 @@
 body{
     background-image: url(pattern.png);
-    background-repeat: repeat;
+		background-repeat: repeat;
 }
 #wrapper { 
-        width: 77%;
-        margin-right: auto;
-        margin-left: auto;
-	padding: 3%;
-	padding-top: 33px;
-	padding-bottom: 33px;
-	background-color: whitesmoke;
-}
+      width: 77%;
+			margin-right: auto;
+			margin-left: auto;
+			padding: 3%;
+			padding-top: 33px;
+			padding-bottom: 33px;
+			background-color: whitesmoke;
+		}
 .photo  { 
         background-image: url(cohort.png)
-	width: auto;
-    	height: auto;
+		    width: auto;
+    		height: auto;
     		
     		
  }
 .legend { 
-        color: #95484b;
-	font-weight: bold;
-	background-color: white;
-	display: inline-block;
-	background-position: center;
+      color: #95484b;
+			font-weight: bold;
+			background-color: white;
+			display: inline-block;
+			background-position: center;
 
 }
 
 .logo  { 
-        width: 11%;
-	padding-bottom: 30px;
+    width: 11%;
+		padding-bottom: 30px;
 		
 
 	}
 
 header { 
-        padding: 9px;
-	background-image: linear-gradient(to bottom, #95484b, #af595c, #6f3032)	
+    padding: 9px;
+		background-image: linear-gradient(to bottom, #95484b, #af595c, #6f3032)	
 
 }
 
 nav { 
-        text-align: center;
-	margin: -15px;
-	font-size: -30%; 
-	font-weight: -30%;
+    text-align: center;
+		margin: -15px;
+		font-size: -30%; 
+		font-weight: -30%;
 		
  }
 
 footer { 
-        margin-top: 1em;
-	margin-bottom: 1em;
-	background-position: center;
+     margin-top: 1em;
+		 margin-bottom: 1em;
+		 background-position: center;
 }
 
 a { 
-        border: 3px white;
+  border: 3px white;
 	background-color: #95484b;
 	color: white;
 	padding: 0.2em;
